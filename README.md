@@ -90,10 +90,10 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - Power BI Service (publicación y compartición)
 - Puertas de enlace y actualización programada
 - Seguridad a nivel de fila (RLS)
-- Rendimiento y optimización (DAX Studio, VertiPaq)
-- Composite models y DirectQuery vs Import
-- Incremental refresh y particionado
-- Deployment pipelines y ALM Toolkit
+- Slicers y filtros (tres niveles de alcance)
+- Field Parameters (dimensiones y medidas intercambiables)
+- Bookmarks, botones y navegación avanzada
+- Visualizaciones avanzadas y diseño profesional
 - Reportes paginados (Report Builder)
 - Proyecto final – dashboard empresarial
 
