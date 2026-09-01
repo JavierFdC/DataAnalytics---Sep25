@@ -8,11 +8,11 @@ El curso combina **conceptos teóricos, análisis con Python, exploración de da
 
 # Estructura del Curso
 
-El curso está organizado en **8 bloques temáticos**, con un total aproximado de **80 sesiones**.
+El curso está organizado en **9 bloques temáticos**, con un total aproximado de **80 sesiones**.
 
 ---
 
-# BLOQUE 1 - SQL y Bases de Datos
+## BLOQUE 1 - SQL y Bases de Datos
 - Repaso general de SELECT, FROM, WHERE y AS
 - Agregaciones, ordenación y agrupación (GROUP BY, HAVING, ORDER BY)
 - Joins y subconsultas clave
@@ -20,7 +20,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-# BLOQUE 2 - Python Fundamentos
+## BLOQUE 2 - Python Fundamentos
 - Repaso de introducción y entorno
 - Tipos de datos, operadores y funciones incorporadas
 - Strings, listas, tuplas y diccionarios
@@ -32,14 +32,14 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-# BLOQUE 3 - Python Avanzado y Librerías
+## BLOQUE 3 - Python Avanzado y Librerías
 - POO aplicada (clases, herencia y polimorfismo)
 - Numpy y Pandas esenciales
 - Lectura, limpieza y katas de refuerzo
 
 ---
 
-# BLOQUE 4 - Análisis de Datos y Visualización
+## BLOQUE 4 - Análisis de Datos y Visualización
 - Operaciones, columnas y generación de datos
 - Group By, Apply y combinaciones de DataFrames
 - Pivot, Melt y conexión SQL con Python
@@ -53,7 +53,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-# BLOQUE 5 - Cloud, IA y Data Science
+## BLOQUE 5 - Cloud, IA y Data Science
 - Plataformas Cloud y conceptos básicos
 - AWS, Google Cloud y Azure – comparación práctica
 - Creación y gestión de bases de datos en la nube
@@ -65,7 +65,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-# BLOQUE 6 - Gobierno del Dato y Estrategia
+## BLOQUE 6 - Gobierno del Dato y Estrategia
 - Arquitectura de datos: visión general y tipos
 - Data Hub, integración y gobierno del dato
 - Marco de trabajo del gobierno del dato (objetivos y roles)
@@ -74,7 +74,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-# BLOQUE 7 - Power BI
+## BLOQUE 7 - Power BI
 - Instalación, entorno y conceptos básicos
 - Carga y transformación de datos (Power Query)
 - Modelado de datos (dimensiones, relaciones y medidas)
@@ -83,7 +83,7 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - DAX intermedio (CALCULATE, FILTER, ALL)
 - Time intelligence (DATEADD, YTD, YoY)
 - DAX avanzado (variables e iteradores)
-- Modelado estrella y snowflake
+- Modelado estrella y copo de nieve
 - Jerarquías, granularidad y formato de datos
 - Tablas de fechas y calendario
 - Power Query avanzado (parámetros y M)
@@ -99,22 +99,22 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 
 ---
 
-# BLOQUE 8 - Tableau y Qlik
-
-## Tableau
+## BLOQUE 8 - Tableau
 - Instalación, configuración e interfaz de trabajo
 - Conexión de datos (Excel, CSV, bases de datos)
-- Creación de visualizaciones y dashboards interactivos
+- Creación de visualizaciones: gráficos fundamentales
+- Dashboards interactivos: gráficos avanzados
 - Publicación y buenas prácticas de diseño
-- Preparación de datos con Tableau Prep
+- Preparación de datos y joins con Tableau Prep
 - Cálculos rápidos y de tabla
 - LOD Expressions (FIXED, INCLUDE, EXCLUDE)
-- Parámetros, acciones y navegación
-- Mapas y análisis geoespacial
-- Rendimiento y extractos (.hyper)
+- Parámetros, acciones, navegación y seguridad
+- Mapas geoespaciales, rendimiento y extractos (.hyper)
 - Proyecto práctico: dashboard interactivo
 
-## Qlik
+---
+
+## BLOQUE 9 - Qlik
 - Instalación y entorno de trabajo
 - Carga de datos, modelado y calidad del dato
 - Creación de visualizaciones y uso de elementos maestros
@@ -128,9 +128,11 @@ El curso está organizado en **8 bloques temáticos**, con un total aproximado d
 - Proyecto: app analítica de negocio
 
 ---
+## BLOQUE 10 - Proyecto Final
+- MetroBus Analytics
 
+---
 # Herramientas utilizadas
-
 Durante el curso se utilizarán diferentes herramientas de análisis y visualización de datos:
 
 - Python (Pandas, Matplotlib, Seaborn)
@@ -143,11 +145,9 @@ Durante el curso se utilizarán diferentes herramientas de análisis y visualiza
 ---
 
 # Contenido del repositorio
-
 El repositorio incluye:
 
 - Apuntes de cada sesión
-- Notebooks de Python
 - Datasets para ejercicios
 - Material de práctica
 - Proyectos
