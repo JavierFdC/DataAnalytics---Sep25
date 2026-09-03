@@ -8,7 +8,7 @@ El curso combina **conceptos teóricos, análisis con Python, exploración de da
 
 # Estructura del Curso
 
-El curso está organizado en **9 bloques temáticos**, con un total aproximado de **80 sesiones**.
+El curso está organizado en **10 bloques temáticos**, con un total aproximado de **80 sesiones**.
 
 ---
 
