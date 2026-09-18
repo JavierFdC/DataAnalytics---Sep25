@@ -8,7 +8,7 @@ El curso combina **conceptos teóricos, análisis con Python, exploración de da
 
 # Estructura del Curso
 
-El curso está organizado en **10 bloques temáticos**, con un total aproximado de **80 sesiones**.
+El curso está organizado en **11 bloques temáticos**, con un total aproximado de **80 sesiones**.
 
 ---
 
@@ -130,6 +130,11 @@ El curso está organizado en **10 bloques temáticos**, con un total aproximado 
 ---
 ## BLOQUE 10 - Proyecto Final
 - MetroBus Analytics
+
+---
+
+## BLOQUE 11 - Certificaciones
+- Certificaciones profesionales asociadas al temario del curso (SQL, Python, Cloud, Power BI, Tableau, Qlik)
 
 ---
 # Herramientas utilizadas
