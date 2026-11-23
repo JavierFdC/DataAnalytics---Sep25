@@ -158,3 +158,9 @@ El repositorio incluye:
 - Proyectos
 
 ---
+
+# Autoría y licencia
+
+Material creado y mantenido por **Javier Fernández de Cara** ([@JavierFdC](https://github.com/JavierFdC)). © 2026 Javier Fernández de Cara.
+
+Este material se publica con la licencia [Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Puedes copiarlo, adaptarlo y compartirlo para fines no comerciales, siempre que cites la autoría y compartas tus cambios con la misma licencia. El texto legal completo está en el archivo [LICENSE](LICENSE).
