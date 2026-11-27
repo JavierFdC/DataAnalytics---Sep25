@@ -1,0 +1,24 @@
+// mercadia_comun.qvs
+// Configuración y subrutinas comunes a todas las apps de Mercadia.
+
+// Rutas
+SET vRuta           = 'lib://Mercadia/';
+SET vRutaExtraccion = 'lib://Mercadia_Capas/1_Extraccion/';
+SET vRutaModelo     = 'lib://Mercadia_Capas/2_Modelo/';
+
+// Comprueba que un campo no tiene valores repetidos en una tabla
+SUB ComprobarDuplicados(pTabla, pCampo)
+    _duplicados:
+    LOAD * WHERE filas > 1;
+    LOAD [$(pCampo)] AS valor_duplicado, Count([$(pCampo)]) AS filas
+    RESIDENT [$(pTabla)]
+    GROUP BY [$(pCampo)];
+
+    LET vDuplicados = NoOfRows('_duplicados');
+    IF vDuplicados > 0 THEN
+        TRACE ### AVISO: $(vDuplicados) valores de $(pCampo) repetidos en $(pTabla);
+    ELSE
+        TRACE OK: $(pCampo) es unico en $(pTabla);
+    END IF
+    DROP TABLE _duplicados;
+END SUB
