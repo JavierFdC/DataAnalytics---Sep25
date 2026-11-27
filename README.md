@@ -159,6 +159,16 @@ El repositorio incluye:
 
 ---
 
+# Contacto
+
+Para dudas sobre el material o el curso:
+
+- Email: [javier@ext.thepower.education](mailto:javier@ext.thepower.education)
+- Discord de la escuela: `javierprometeo`
+- LinkedIn: [Javier Fernández de Cara](https://www.linkedin.com/in/javierfdezcara/)
+
+---
+
 # Autoría y licencia
 
 Material creado y mantenido por **Javier Fernández de Cara** ([@JavierFdC](https://github.com/JavierFdC)). © 2026 Javier Fernández de Cara.
